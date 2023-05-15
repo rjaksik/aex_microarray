@@ -10,3 +10,9 @@ This is a set of applications designed to test various hypothesis on extremely l
 * **get_set_std.py** - calculates inter-proeset variance for each sample based on specified pgc_file
 
 The example usage of each application can be viewed by running the application without any parameters.
+
+
+## Acknowledgment:
+
+The creation of this software was supported by the Polish National Science Centre, grant No. 2016/23/D/ST7/03665.
+
